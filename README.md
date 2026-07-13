@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vineet Pandey</h1>
 
-<!--
-**vineet358/vineet358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full-Stack Developer | C++ Programmer | Problem Solver
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building real-world applications and solving complex problems through clean and efficient code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student at Graphic Era Hill University
+- 💻 Aspiring Full-Stack Developer
+- ⚛️ Building web applications using React.js, Node.js, Express.js, and MongoDB
+- 🧠 Solved 500+ coding problems across LeetCode and GeeksforGeeks
+- 🚀 Currently building TalentScout, a sports talent scouting platform
+- 🌱 Currently improving my Backend Development and System Design skills
+- 💡 Interested in Full-Stack Development, Problem Solving, and building technology for real-world impact
+
+---
