@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vineet Pandey</h1>
 
 <h3 align="center">
-  Full-Stack Developer | C++ Programmer | Problem Solver
+Full-Stack Developer | C++ Programmer | Problem Solver
 </h3>
 
 <p align="center">
@@ -14,28 +14,32 @@
 </p>
 
 <p align="center">
-  Passionate about building real-world applications and solving complex problems through clean and efficient code.
+Passionate about building real-world applications and solving complex problems through clean and efficient code.
 </p>
 
 ---
 
-<!-- ===================== SOCIAL LINKS ===================== -->
+<!-- ===================== PROFILE LINKS ===================== -->
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/vineet-pandey-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
+<a href="https://github.com/vineet358">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="YOUR_GFG_URL">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" />
-  </a>
+<a href="https://leetcode.com/u/vineet__pandey/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/vp124m52y">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 </p>
 
@@ -57,31 +61,43 @@
 
 <!-- ===================== TECH STACK ===================== -->
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<h2 align="center">🛠️ Languages, Frameworks & Tools</h2>
 
-<br/>
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,javascript,python" />
+<h3 align="center">Frontend Development</h3>
 
-<br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" />
+<h3 align="center">Backend Development</h3>
 
-<br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,fastapi,docker,git,github,vscode" />
+<h3 align="center">Databases</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+<h3 align="center">Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
 ---
 
 <!-- ===================== PROJECTS ===================== -->
 
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-
-<br/>
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### 🌍 SEWA – Smart Food Redistribution Platform
 
@@ -93,13 +109,19 @@ A technology-driven food redistribution platform that connects hotels with NGOs 
 - 💬 Real-time Hotel–NGO communication
 - 📦 Donation tracking and management
 - ⭐ Feedback and rating system
-- 📊 Dedicated Hotel, NGO and Admin dashboards
+- 📊 Dedicated Hotel, NGO, and Admin dashboards
 - ⚠️ Complaint management and admin-reviewed blacklisting
 - 📈 Donation and social impact analytics
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB | Socket.IO
 
-<br/>
+<a href="YOUR_SEWA_REPOSITORY_LINK">
+  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+---
 
 ### 🛒 हुनरBazaar – Modern Multilingual E-Commerce Platform
 
@@ -116,7 +138,13 @@ A modern e-commerce platform designed to connect local sellers and established b
 
 **Tech Stack:** React.js | FastAPI | MongoDB | Machine Learning | Docker
 
-<br/>
+<a href="YOUR_HUNARBAZAAR_REPOSITORY_LINK">
+  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+---
 
 ### 🚨 Smart Disaster Management System
 
@@ -134,7 +162,13 @@ A disaster response platform designed to improve communication between civilians
 
 **Tech Stack:** Full-Stack Development | Machine Learning | Geolocation API | Weather API
 
-<br/>
+<a href="YOUR_DISASTER_MANAGEMENT_REPOSITORY_LINK">
+  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+---
 
 ### 🏆 TalentScout – Sports Talent Scouting Platform
 
@@ -153,33 +187,17 @@ A full-stack platform designed to make sports talent discovery more accessible t
 
 **Tech Stack:** React.js | Node.js | Express.js | PostgreSQL | Prisma
 
----
+<a href="https://github.com/vineet358/TalentScout">
+  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<!-- ===================== CODING ===================== -->
-
-<h2 align="center">🧠 Problem Solving & DSA</h2>
-
-<p align="center">
-
-💻 Solved <b>500+ coding problems</b> across LeetCode and GeeksforGeeks
-
-<br/>
-
-⚡ Strong foundation in Data Structures and Algorithms
-
-<br/>
-
-🎯 Regularly practicing problem-solving using C++
-
-</p>
+<br><br>
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
-<br/>
 
 <p align="center">
 
@@ -194,8 +212,6 @@ A full-stack platform designed to make sports talent discovery more accessible t
 />
 
 </p>
-
-<br/>
 
 <p align="center">
 
@@ -222,36 +238,16 @@ A full-stack platform designed to make sports talent discovery more accessible t
 
 ---
 
-<!-- ===================== TROPHIES ===================== -->
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=vineet358&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-/>
-
-</p>
-
----
-
-<!-- ===================== QUOTE ===================== -->
+<!-- ===================== DEVELOPER MINDSET ===================== -->
 
 <h2 align="center">💡 Developer Mindset</h2>
 
 <h3 align="center">
-
 Code. Build. Solve. Learn. Repeat.
-
 </h3>
 
 <p align="center">
-
-<i>
-Turning ideas into applications and problems into solutions.
-</i>
-
+<i>Turning ideas into applications and problems into solutions.</i>
 </p>
 
 ---
@@ -260,12 +256,10 @@ Turning ideas into applications and problems into solutions.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vineet358&label=Profile%20Views&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vineet358&label=Profile%20Views&style=for-the-badge"/>
 
 </p>
 
 <h3 align="center">
-
 ⭐ Always learning, building, and improving.
-
 </h3>
