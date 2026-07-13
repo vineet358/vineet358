@@ -89,7 +89,7 @@ A technology-driven food redistribution platform that connects hotels with NGOs 
 - ⚠️ Complaint management and admin-reviewed blacklisting
 - 📈 Donation and social impact analytics
 
-**Tech Stack:** React.js | Node.js | Express.js | MongoDB | Socket.IO
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
 <a href="https://github.com/vineet358/SEVA-FOOD-WASTE-MANAGEMENT">
   <img src="https://img.shields.io/badge/View_Repository-SEWA-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -136,7 +136,7 @@ A disaster response platform designed to improve communication between civilians
 - 🤖 ML-based resource requirement prediction
 - 📦 Intelligent resource allocation
 
-**Tech Stack:** Full-Stack Development | Machine Learning | Geolocation API | Weather API
+**Tech Stack:** React.js | FastAPI | Python | Machine Learning
 
 <a href="https://github.com/vineet358/Disaster-Management-SIH">
   <img src="https://img.shields.io/badge/View_Repository-Disaster_Management-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -161,7 +161,7 @@ A full-stack platform designed to make sports talent discovery more accessible t
 - 👨‍🏫 Coach-based talent discovery
 - 🤖 Future ML-based performance analysis
 
-**Tech Stack:** React.js | Node.js | Express.js | MySQL | Prisma
+**Tech Stack:** React.js | Node.js | Express.js | PostgreSQL | Prisma
 
 <a href="https://github.com/vineet358/TalentScout">
   <img src="https://img.shields.io/badge/View_Repository-TalentScout-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -185,6 +185,8 @@ A full-stack platform designed to make sports talent discovery more accessible t
 </p>
 
 <br>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -226,21 +228,9 @@ A full-stack platform designed to make sports talent discovery more accessible t
 
 </p>
 
----
-
-<!-- ===================== DEVELOPER MINDSET ===================== -->
-
-<h2 align="center">💡 Developer Mindset</h2>
-
-<h3 align="center">
-Code. Build. Solve. Learn. Repeat.
-</h3>
-
-<p align="center">
-<i>Turning ideas into applications and problems into solutions.</i>
-</p>
-
 <br>
+
+<!-- ===================== PROFILE VIEWS ===================== -->
 
 <p align="center">
   <img
@@ -248,7 +238,3 @@ Code. Build. Solve. Learn. Repeat.
     alt="Profile Views"
   />
 </p>
-
-<h3 align="center">
-⭐ Always learning, building, and improving.
-</h3>
