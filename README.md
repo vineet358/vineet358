@@ -27,7 +27,6 @@ Passionate about building real-world applications and solving complex problems t
 - 💻 Aspiring Full-Stack Developer
 - ⚛️ Building web applications using React.js, Node.js, Express.js, and MongoDB
 - 🧠 Solved **500+ coding problems** across LeetCode and GeeksforGeeks
-- 🚀 Currently building **TalentScout**, a sports talent scouting platform
 - 🌱 Improving my Backend Development and System Design skills
 - 💡 Passionate about building technology that solves real-world problems
 
